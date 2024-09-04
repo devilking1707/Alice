@@ -15,13 +15,13 @@ header {
     align-items: center;
     background-color: #1cc7ed;
     padding: 10px 20px;
-    color: rgb(24, 31, 21);
+    color: rgb(210, 226, 203);
 }
 
 .logo {
     font-size: 24px;
     font-weight: bold;
-    color: #b1e3af;
+    color: #f0f0f0;
 }
 
 .search-bar {
